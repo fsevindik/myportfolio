@@ -27,8 +27,8 @@ export default function FreecodeCamp({}: Props) {
       <div className="px-0 md:px-10">
         <h4 className="text-4xl font-light ">freecodecamp</h4>
         <p className="font-bold text-2xl m-2  ">
-          JavaScript Algorithms and Data Structures and Responsive Web Design
-          Courses{" "}
+          ------JavaScript Algorithms and Data Structures and Responsive Web
+          Design Courses{" "}
         </p>
         <div className="flex space-x-2 my-2"></div>
         <p className=" py-5 text-gray-300">
