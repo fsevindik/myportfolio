@@ -35,7 +35,8 @@ export default function FreecodeCamp({}: Props) {
           Freecodecamp offers a wide range of free online courses that cover
           various topics in web development and programming. Their courses are
           designed to be beginner-friendly, but they also offer more advanced
-          courses for experienced developers who want to level up their skills.
+          courses for experienced developers who want to level up their
+          skills.Thx to freecodecamp ...
         </p>
       </div>
     </article>
