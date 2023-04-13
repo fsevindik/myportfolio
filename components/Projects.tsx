@@ -20,21 +20,25 @@ const projects: Project[] = [
   },
   {
     title: "Authentication and Authorization",
-    image: "/register.png",
+    image:
+      "https://raw.githubusercontent.com/muratcan23/myportfolio/main/public/register.png",
+
     description:
       "Authentication is a crucial security concept that ensures only authorized users can access resources and perform actions within a system or application. To help users understand authentication terms, it is important to display them clearly and concisely",
     url: "https://github.com/users/kod-man/projects/4",
   },
   {
     title: "Setting UserName and Uploading Photo",
-    image: "/upload.png",
+    image:
+      "https://raw.githubusercontent.com/muratcan23/myportfolio/main/public/upload.png",
     description:
       "We provide an onboard page for users to personalize their experience by allowing them to upload a photo and choose a username. To pick a username, users can use a text field where they can enter their desired name. We also offer a file upload control that enables users to select an image file from their device to use as their profile picture. To ensure a smooth experience, we provide guidelines on acceptable image formats and sizes for photo uploads. By enabling users to upload a photo and choose a username, we aim to make our website/application more engaging and personal for them. ",
     url: "https://github.com/users/kod-man/projects/4",
   },
   {
     title: "Adding Projects and Removing Them",
-    image: "/task.png",
+    image:
+      "https://raw.githubusercontent.com/muratcan23/myportfolio/main/public/task.png",
     description:
       "Our platform allows users to manage their projects by adding or deleting them as needed. Users can add new projects by using a simple form that includes fields for project name, priority level, description, and color selection. The priority level helps users prioritize their projects, while the color selection enables them to categorize their projects by color for easy identification. Users can also delete projects they no longer need with just a few clicks. Our platform provides a seamless and efficient way for users to manage their projects and stay organized. ",
     url: "https://github.com/users/kod-man/projects/4",
