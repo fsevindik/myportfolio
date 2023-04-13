@@ -36,7 +36,7 @@ function Hobby({}: Props) {
               duration: 1.2,
             }}
             viewport={{ once: true }}
-            src="https://images.squarespace-cdn.com/content/v1/5efe3f30a9ddcd578c662b39/1626482139952-RPX9NNT1FZCN8PWK1Q70/E+Empennage+Profile+View.png?format=2500w"
+            src="https://logowik.com/content/uploads/images/t_arduino-black1493.logowik.com.webp"
             className="mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full boject-cover
         md:rounded-lg md:w-64 md:h-95  "
           />
@@ -107,16 +107,17 @@ function Hobby({}: Props) {
               duration: 1.2,
             }}
             viewport={{ once: true }}
-            src="https://i0.wp.com/makezine.com/wp-content/uploads/2019/05/469521107_1280x720.jpg?fit=1280%2C720&ssl=1"
-            className="mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full boject-cover
+            src="https://logowik.com/content/uploads/images/t_arduino-black1493.logowik.com.webp"
+            className="mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full boject-cover 
         md:rounded-lg md:w-64 md:h-95  "
           />
 
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-4xl font-semibold text-center ">
-              Here some of my hobbies leaded me to software.
+              Arduino Programming: How My Hobby Led Me to Discover the World of
+              Software
             </h4>
-            <p className="text-lg text-center md:text-left">
+            <p className="text-lg text-center md:text-left ">
               Hobby is an important aspect of my life. I love creating things
               with my hands and experimenting with different materials and
               techniques.My passion for hobbies like Arduino, handcraft, and
