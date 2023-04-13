@@ -3,7 +3,7 @@ import FreecodeCamp from "./Experiences/FreeCodeCamp";
 import GitHub from "./Experiences/GitHub";
 import { default as HelsinkiJava } from "./Experiences/HelsinkiJava";
 import Patika from "./Experiences/Patika";
-import Scrimba from "./Skills/Scrimba";
+import Scrimba from "./Experiences/Scrimba";
 
 type Props = {};
 
