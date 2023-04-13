@@ -117,7 +117,7 @@ function Hobby({}: Props) {
               Arduino Programming: How My Hobby Led Me to Discover the World of
               Software
             </h4>
-            <p className="text-lg text-center md:text-left ">
+            <p className="text-lg text-center md:text-left  ">
               Hobby is an important aspect of my life. I love creating things
               with my hands and experimenting with different materials and
               techniques.My passion for hobbies like Arduino, handcraft, and
