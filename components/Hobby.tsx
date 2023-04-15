@@ -36,7 +36,7 @@ function Hobby({}: Props) {
               duration: 1.2,
             }}
             viewport={{ once: true }}
-            src="https://logowik.com/content/uploads/images/t_arduino-black1493.logowik.com.webp"
+            src="https://images.squarespace-cdn.com/content/v1/5efe3f30a9ddcd578c662b39/1626482139952-RPX9NNT1FZCN8PWK1Q70/E+Empennage+Profile+View.png?format=2500w"
             className="mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full boject-cover
         md:rounded-lg md:w-64 md:h-95  "
           />
@@ -77,8 +77,8 @@ function Hobby({}: Props) {
             }}
             viewport={{ once: true }}
             src="https://i.imgur.com/YVaJ4jp.png"
-            className="mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full boject-cover
-        md:rounded-lg md:w-64 md:h-95  "
+            className="mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full oject-cover
+        md:rounded-lg md:w-64 md:h-95 "
           />
 
           <div className="space-y-10 px-0 md:px-10 max-w-6xl">
