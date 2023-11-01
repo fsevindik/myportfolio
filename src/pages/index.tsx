@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
 import About from "../../components/About";
@@ -12,14 +11,14 @@ import WorkExperience from "../../components/WorkExperience";
 
 const SECTION_DATA = [];
 
-const Home: NextPage = () => {
-  let viewCount = 0;
+// const Home: NextPage = () => {
+//   let viewCount = 0;
 
-  // page load times
-  window.onload = () => {
-    viewCount++;
-    console.log(`Page view count: ${viewCount}`);
-  };
+//   // page load times
+//   window.onload = () => {
+//     viewCount++;
+//     console.log(`Page view count: ${viewCount}`);
+//   };
 
   return (
     <div
