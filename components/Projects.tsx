@@ -43,6 +43,23 @@ const projects: Project[] = [
       "Our platform allows users to manage their projects by adding or deleting them as needed. Users can add new projects by using a simple form that includes fields for project name, priority level, description, and color selection. The priority level helps users prioritize their projects, while the color selection enables them to categorize their projects by color for easy identification. Users can also delete projects they no longer need with just a few clicks. Our platform provides a seamless and efficient way for users to manage their projects and stay organized. ",
     url: "https://github.com/users/kod-man/projects/4",
   },
+  {
+    title: "Story Estimate Replica",
+    image:
+      "https://github.com/muratcan23/myportfolio/blob/main/public/storyestimate.png?raw=true",
+    description:
+      " 'Story Estimate' is a fundamental concept in agile project management. It involves a collaborative process where team members collectively assess and estimate the complexity or effort required to complete specific tasks or user stories within a project. This practice plays a vital role in efficient project planning and helps teams prioritize and allocate resources effectively",
+    url: "https://www.storyestimate.com/",
+  },
+
+  {
+    title: "Story Estimate Replica",
+    image:
+      "https://github.com/muratcan23/myportfolio/blob/main/public/estimatevotes.png?raw=true",
+    description:
+      "Inspired by the concept of 'Story Estimate' , the Story Estimate Replica project is a collaborative web application that mimics the process of taking votes from different team members to estimate task complexity. It calculates the average estimate while also providing a disagreement rate, enhancing agile project planning and consensus-building.",
+    url: "https://github.com/muratcan23/estimateMe",
+  },
 ];
 
 function Projects({}: Props) {
