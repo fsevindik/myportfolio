@@ -60,6 +60,14 @@ const projects: Project[] = [
       "Inspired by the concept of 'Story Estimate' , the Story Estimate Replica project is a collaborative web application that mimics the process of taking votes from different team members to estimate task complexity. It calculates the average estimate while also providing a disagreement rate, enhancing agile project planning and consensus-building.",
     url: "https://github.com/muratcan23/estimateMe",
   },
+  {
+    title: "Story Estimate Replica",
+    image:
+      "https://github.com/muratcan23/myportfolio/blob/main/public/estimateresults.png?raw=true",
+    description:
+      " EstimateME includes vote calculation for task estimates, a disagreement rate metric for team consensus, vote tracking, and clear categorization of consensus levels as medium, high, or low. These features empower teams to collaborate effectively and make informed decisions during the estimation process",
+    url: "https://github.com/muratcan23/estimateMe",
+  },
 ];
 
 function Projects({}: Props) {
