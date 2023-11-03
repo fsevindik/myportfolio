@@ -26,6 +26,20 @@ const Home: NextPage = () => {
     >
       <Head>
         <title>Murat's Portfolio</title>
+        {/* Google Analytics Kodu */}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-0WZMHCZ0CW"
+        ></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-0WZMHCZ0CW');
+          `}
+        </script>
+        {/* Google Analytics Kodu Sonu */}
       </Head>
 
       <Header />
