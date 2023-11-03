@@ -9,17 +9,14 @@ import Hobby from "../../components/Hobby";
 import Projects from "../../components/Projects";
 import Skills from "../../components/Skills";
 import WorkExperience from "../../components/WorkExperience";
+import { usePageVisitCounter } from "../../components/usePageVisitCounter";
 
 const SECTION_DATA = [];
 
 const Home: NextPage = () => {
-  // let viewCount = 0;
+  const visitCount = usePageVisitCounter(); // Sayacı kullanın
 
-  // // page load times
-  // window.onload = () => {
-  //   viewCount++;
-  //   console.log(`Page view count: ${viewCount}`);
-  // };
+  console.log(`This page has been visited ${visitCount} times.`);
 
   return (
     <div
