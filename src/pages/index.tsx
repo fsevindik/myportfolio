@@ -34,7 +34,6 @@ const Home: NextPage = () => {
             gtag('config', 'G-0WZMHCZ0CW');
           `}
         </script>
-        {/* Google Analytics Kodu Sonu */}
       </Head>
 
       <Header />
