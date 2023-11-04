@@ -14,7 +14,7 @@ function ContactME({}: Props) {
 
       <div className="flex flex-col space-y-10 ">
         <h4 className="text-4xl font-semibold text-center ">
-          I have got just what you neeed. Lets Talk
+          I have got just what you need. Lets talk.
         </h4>
         <div className="space-y-10">
           <div className="flex items-center space-x-5 justify-center">
