@@ -87,7 +87,7 @@ const projects: Project[] = [
     image:
       "https://raw.githubusercontent.com/muratcan23/myportfolio/main/public/filmologuser.png?raw=true",
     description:
-      "You can explore the films I have selected. Feel free to visit, critique, and leave comments or notes for me (the admin). Still expanding and upgrading. ",
+      "You can explore the films I have selected. Feel free to visit, critique, and leave comments or notes for me (the admin). Still improving and expanding . ",
     url: "https://filmolog.onrender.com/",
   },
 ];
