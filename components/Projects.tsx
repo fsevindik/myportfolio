@@ -71,7 +71,7 @@ const projects: Project[] = [
   {
     title: "Personal film/blog page",
     image:
-      "https://github.com/muratcan23/myportfolio/blob/main/public/filmologregister.png?raw=true",
+      "https://github.com/muratcan23/myportfolio/blob/main/public/filmologregister.png",
     description:
       " This project is a personal endeavor where I have applied much of what I have learned so far and developed using my own skills. It serves as a sort of modern blog page for me. Please feel free to visit, critique, and explore the films I have selected. If you wish, you can also leave a comment and send a note to the admin (which is me :) ). Still expanding and upgrading.",
     url: "https://filmolog.onrender.com/",
@@ -79,7 +79,7 @@ const projects: Project[] = [
   {
     title: "Personal film/blog page",
     image:
-      "https://github.com/muratcan23/myportfolio/blob/main/public/filmologhome.png?raw=true",
+      "https://github.com/muratcan23/myportfolio/blob/main/public/filmologhome.png",
     description:
       " This project is a personal initiative where I’ve applied many of the skills and knowledge I've acquired, showcasing my own development work. I am personally involved in all aspects of the design and development. ",
     url: "https://filmolog.onrender.com/",
@@ -87,7 +87,7 @@ const projects: Project[] = [
   {
     title: "Personal film/blog page",
     image:
-      "https://github.com/muratcan23/myportfolio/blob/main/public/filmologuser.png?raw=true",
+      "https://github.com/muratcan23/myportfolio/blob/main/public/filmologuser.png",
     description:
       " It serves as a sort of modern blog page for me. Please feel free to visit, critique, and explore the films I have selected. If you wish, you can also leave a comment and send a note to the admin (which is me :) ). ",
     url: "https://filmolog.onrender.com/",
