@@ -73,7 +73,7 @@ const projects: Project[] = [
     image:
       "https://github.com/muratcan23/myportfolio/blob/main/public/filmologregister.png",
     description:
-      " This project is a personal endeavor where I have applied much of what I have learned so far and developed using my own skills. It serves as a sort of modern blog page for me. Please feel free to visit, critique, and explore the films I have selected. If you wish, you can also leave a comment and send a note to the admin (which is me :) ). Still expanding and upgrading.",
+      "This project is a personal endeavor where I have applied much of what I have learned and developed using my own skills. It serves as a modern blog page for me, showcasing my development work and my involvement in all aspects of design and development.",
     url: "https://filmolog.onrender.com/",
   },
   {
@@ -81,7 +81,7 @@ const projects: Project[] = [
     image:
       "https://github.com/muratcan23/myportfolio/blob/main/public/filmologhome.png",
     description:
-      " This project is a personal initiative where I’ve applied many of the skills and knowledge I've acquired, showcasing my own development work. I am personally involved in all aspects of the design and development. ",
+      "I've utilized many of the skills and knowledge I've acquired to build this project. It reflects my personal touch and showcases my hands-on experience in every aspect of its design and development.",
     url: "https://filmolog.onrender.com/",
   },
   {
@@ -89,13 +89,7 @@ const projects: Project[] = [
     image:
       "https://github.com/muratcan23/myportfolio/blob/main/public/filmologuser.png",
     description:
-      " It serves as a sort of modern blog page for me. Please feel free to visit, critique, and explore the films I have selected. If you wish, you can also leave a comment and send a note to the admin (which is me :) ). ",
-    url: "https://filmolog.onrender.com/",
-  },
-  {
-    title: "Personal film/blog page",
-    image: "",
-    description: " Still expanding and upgrading and adding new features. ",
+      "This project serves as a modern blog page where you can explore the films I have selected. Feel free to visit, critique, and leave comments or notes for me (the admin).",
     url: "https://filmolog.onrender.com/",
   },
 ];
