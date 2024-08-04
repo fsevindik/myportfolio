@@ -79,8 +79,8 @@ const projects: Project[] = [
     image:
       "https://raw.githubusercontent.com/muratcan23/myportfolio/main/public/filmologhome.png?raw=true",
     description:
-      "I've utilized many of the skills and knowledge I've acquired to build this project. It reflects my personal touch and showcases my hands-on experience in every aspect of its design and development.",
-    url: "https://filmolog.onrender.com/",
+      "I've utilized many of the skills and knowledge I've acquired to build this project. It reflects my personal touch and showcases my hands-on experience in every aspect of its design and development. Onclick to this image will direct you to prjects github page",
+    url: "https://github.com/muratcan23/blog/",
   },
   {
     title: "Personal film/blog page",
