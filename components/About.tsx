@@ -44,8 +44,8 @@ function About({}: Props) {
           development for over two years now, and as a junior front-end
           developer, I'm constantly working on improving my skills. Currently,
           I'm focusing on React and using TypeScript to take my JavaScript
-          abilities to the next level. I recently completed a todo project with
-          my mentor, SIFU=KOD-MAN, which was an excellent learning experience.
+          abilities to the next level. I recently completed a to-do project with
+          my mentor, which was an excellent learning experience.
         </p>
       </div>
     </motion.div>
