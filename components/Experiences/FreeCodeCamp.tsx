@@ -19,7 +19,7 @@ export default function FreecodeCamp({}: Props) {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center "
-          src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0"
+          src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU=w600-h300-pc0xffffff-pd"
           alt=""
         />
       </a>
