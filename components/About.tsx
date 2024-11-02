@@ -40,7 +40,7 @@ function About({}: Props) {
           background
         </h4>
         <p>
-          Hi, I'm Murat, also known as Murat Can. I've been learning software
+          Hi, I'm Fırat, also known as Murat Can. I've been learning software
           development for over two years now, and as a junior front-end
           developer, I'm constantly working on improving my skills. Currently,
           I'm focusing on React and using TypeScript to take my JavaScript

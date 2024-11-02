@@ -22,7 +22,7 @@ export default function Header({}: Props) {
         }}
         className="flex flex-row items-center "
       >
-        <a target="_blank" href="https://github.com/muratcan23">
+        <a target="_blank" href="https://github.com/fsevindik">
           <SocialIcon fgColor="transparent" bgColor="gray" />
         </a>
       </motion.div>

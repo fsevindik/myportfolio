@@ -9,7 +9,7 @@ export default function Parika({}: Props) {
     w-[500px] h-[600px] xl:w-[900px] snap-center bg-[#292929] p-10 hover:opacity-100  
     opacity-40 cursor-pointer transition-opacity duration-200 overflow-hidden "
     >
-      <a target="blank" href="https://github.com/muratcan23">
+      <a target="blank" href="https://github.com/fsevindik">
         <motion.img
           initial={{
             y: -100,

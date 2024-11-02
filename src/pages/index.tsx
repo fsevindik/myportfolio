@@ -20,7 +20,7 @@ const Home: NextPage = () => {
     scrollbar-thumb-[#F7AB0A]/80 "
     >
       <Head>
-        <title>Murat's Portfolio</title>
+        <title>Fırat's Portfolio</title>
         {/* brother :))  eyes on here*/}
         <script
           async

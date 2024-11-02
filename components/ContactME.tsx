@@ -19,14 +19,14 @@ function ContactME({}: Props) {
         <div className="space-y-10">
           <div className="flex items-center space-x-5 justify-center">
             <PhoneIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse " />
-            <p className="text-2xl">+90 05468657832</p>
+            <p className="text-2xl">+90 -------</p>
           </div>
 
           <div className="flex items-center space-x-5 justify-center">
             <EnvelopeIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse " />
 
-            <a href="mailto:muratal0606@gmail.com" className="text-2xl">
-              muratal0606@gmail.com
+            <a href="mailto:fsevindik2923@gmail.com" className="text-2xl">
+              fsevindik2923@gmail.com
             </a>
           </div>
           <div
