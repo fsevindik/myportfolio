@@ -11,7 +11,7 @@ export default function HelsinkiJava({}: Props) {
     >
       <a
         target="blank"
-        href="https://certificates.mooc.fi/validate/8g64ynz9nzw"
+        href="https://java-programming.mooc.fi/"
       >
         <motion.img
           initial={{
